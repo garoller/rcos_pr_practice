@@ -1,1 +1,1 @@
-New practice for branching.
+New practice for branching. Another practice.
